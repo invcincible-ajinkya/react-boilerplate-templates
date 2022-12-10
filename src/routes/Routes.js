@@ -15,4 +15,6 @@ const DynamicRoutes = (
   </Suspense>
 );
 
+
+
 export default DynamicRoutes;
