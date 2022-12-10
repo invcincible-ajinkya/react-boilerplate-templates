@@ -1,2 +1,2 @@
 # react-practical-usecases
-Here are some practical use-cases for React Application.
+Added some practical use cases that I emcountered while workin gin Industry and Mostly followed in the commununity.
